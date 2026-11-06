@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ODNSSEC
+Comment=DNSSEC Chain Validator
+Exec=ODNSSEC
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=ONet;
